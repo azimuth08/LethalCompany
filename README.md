@@ -1,0 +1,2 @@
+# LethalCompany
+Horizon Ai hackathon
